@@ -10,11 +10,11 @@ Algunas de las implementaciones en el proyecto son:
 - `2`: Uso de Jetpack Compose
 - `3`: Uso de Navigation Compose
 - `4`: Consumo de Api Rest con Retrofit y GSON
-- `4`: Uso de Material Design 2
+- `5`: Uso de Material Design 2
 - `6`: Splash Screen
 - `7`: Inyeccion de dependencias con Dagger Hilt
 - `8`: Uso de LiveData e implementacion con Compose
-- `10`: Uso de Coil para la carga de imagenes
+- `9`: Uso de Coil para la carga de imagenes
 - `10`: Uso Accompanist Swipe Refresh
 
 
